@@ -1,3 +1,15 @@
+# Ignorados a mano
+tmp/
+.DS_Store
+log/
+node_modules/
+public/
+*.yml
+*.yml*~
+*.*~
+.vscode/
+.env
+
 *.rbc
 capybara-*.html
 .rspec
@@ -65,3 +77,5 @@ yarn-debug.log*
 # Ignore uploaded files in development
 /storage/*
 !/storage/.keep
+
+
